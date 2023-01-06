@@ -4,6 +4,10 @@
 
 <br>
 
+![Preview](./imagens/preview-android.png)
+
+<br>
+
 > # <a href="https://josuedevgit.github.io/projeto-android/">Acesse aqui o projeto!</a>
 
 <br>
